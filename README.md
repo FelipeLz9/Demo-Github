@@ -7,8 +7,8 @@
 
 ## Patrocinadores
 
-Este proyecto está patrocinado por la [Universidad Autonoma de Manizales] (https://www.autonoma.edu.co/). 
+Este proyecto está patrocinado por la [Universidad Autonoma de Manizales](https://www.autonoma.edu.co/). 
 
 ## Documentación 
 
-Para más información seguir este [enlace] (docs/metodologia.md)
+Para más información seguir este [enlace](docs/metodologia.md)
